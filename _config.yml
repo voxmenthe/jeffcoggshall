@@ -1,4 +1,15 @@
 title: Savoring Data by Jeff Coggshall
 
+description: > # this means to ignore newlines until "baseurl:"
+  Using machine learning and statistics to find the flavor in data.
+  
 # theme: jekyll-theme-slate
+# Build settings
+markdown: kramdown
 theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
