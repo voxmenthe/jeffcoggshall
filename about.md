@@ -8,6 +8,8 @@ Jeff Coggshall is a Data Scientist, Programmer and Developer with extensive expe
 
 Most posts focus on the Python / Numpy / Pandas / Scikit-Learn stack, but also some of the neural net stacks such as Tensorflow / Theano / Torch etc. Additional thoughts on programming, JavaScript and other topics from time to time.
 
+Available for consulting and collaboration on data science projects.
+
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jekyll" %} /
 [minima](https://github.com/jekyll/minima)
